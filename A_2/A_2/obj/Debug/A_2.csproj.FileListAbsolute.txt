@@ -1,0 +1,7 @@
+C:\Users\River\source\repos\A_2\A_2\bin\Debug\A_2.exe.config
+C:\Users\River\source\repos\A_2\A_2\bin\Debug\A_2.exe
+C:\Users\River\source\repos\A_2\A_2\bin\Debug\A_2.pdb
+C:\Users\River\source\repos\A_2\A_2\obj\Debug\A_2.csprojAssemblyReference.cache
+C:\Users\River\source\repos\A_2\A_2\obj\Debug\A_2.csproj.CoreCompileInputs.cache
+C:\Users\River\source\repos\A_2\A_2\obj\Debug\A_2.exe
+C:\Users\River\source\repos\A_2\A_2\obj\Debug\A_2.pdb

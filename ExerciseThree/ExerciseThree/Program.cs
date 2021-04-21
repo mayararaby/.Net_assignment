@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExerciseThree
 {
-    enum BankingTypes
+    enum BankingTypes 
     {
         checking = 1,
         Deposit = 2

@@ -28,6 +28,22 @@ namespace A_1
                 hours = int.Parse(Console.ReadLine());
             } while ( hours>=
             0);
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Enter the hour");
+                hours = int.Parse(Console.ReadLine());
+                if (hours >= 1 && hours <= 23)
+                    break;
+            }
+            try
+            {
+                int[] myNumbers = { 1, 2, 3 };
+                Console.WriteLine(myNumbers[10]);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             Console.ReadLine();
         }
     }
