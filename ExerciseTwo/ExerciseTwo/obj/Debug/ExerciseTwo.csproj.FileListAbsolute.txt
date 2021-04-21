@@ -1,0 +1,7 @@
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csprojAssemblyReference.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
