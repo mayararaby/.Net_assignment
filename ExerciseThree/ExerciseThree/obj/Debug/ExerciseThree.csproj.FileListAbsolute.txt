@@ -1,0 +1,7 @@
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\obj\Debug\ExerciseThree.csprojAssemblyReference.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\ExerciseThree\ExerciseThree\obj\Debug\ExerciseThree.pdb
