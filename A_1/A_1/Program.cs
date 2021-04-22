@@ -35,15 +35,6 @@ namespace A_1
                 if (hours >= 1 && hours <= 23)
                     break;
             }
-            try
-            {
-                int[] myNumbers = { 1, 2, 3 };
-                Console.WriteLine(myNumbers[10]);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
             Console.ReadLine();
         }
     }
