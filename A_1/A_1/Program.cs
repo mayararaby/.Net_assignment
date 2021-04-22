@@ -22,7 +22,7 @@ namespace A_1
             { 
                 if (hours >= 1 && hours <=23)
                 {
-                    break;
+                    return;
                 }
                 Console.WriteLine("Enter the hour");
                 hours = int.Parse(Console.ReadLine());

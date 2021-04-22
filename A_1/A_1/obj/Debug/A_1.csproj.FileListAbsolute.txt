@@ -5,3 +5,10 @@ C:\Users\River\source\repos\A_1\A_1\obj\Debug\A_1.csprojAssemblyReference.cache
 C:\Users\River\source\repos\A_1\A_1\obj\Debug\A_1.csproj.CoreCompileInputs.cache
 C:\Users\River\source\repos\A_1\A_1\obj\Debug\A_1.exe
 C:\Users\River\source\repos\A_1\A_1\obj\Debug\A_1.pdb
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\bin\Debug\A_1.exe.config
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\bin\Debug\A_1.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\bin\Debug\A_1.pdb
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\obj\Debug\A_1.csprojAssemblyReference.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\obj\Debug\A_1.csproj.CoreCompileInputs.cache
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\obj\Debug\A_1.exe
+C:\Users\River\Downloads\C#\DayTwo\.Net_assignment\A_1\A_1\obj\Debug\A_1.pdb
