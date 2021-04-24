@@ -1,0 +1,14 @@
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.csprojAssemblyReference.cache
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.csproj.CoreCompileInputs.cache
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.exe.config
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.exe
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.pdb
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.exe
+C:\Users\River\source\repos\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.pdb
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.exe.config
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.exe
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\bin\Debug\dayFourEx2.pdb
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.csprojAssemblyReference.cache
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.csproj.CoreCompileInputs.cache
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.exe
+D:\ITI\Front-end\C#\.Net_assignment\dayFourEx2\dayFourEx2\obj\Debug\dayFourEx2.pdb
