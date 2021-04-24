@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day4
 {
-    enum BankingTypes :byte
+    enum BankingTypes : byte
     {
         checking = 1,
         Deposit = 2
@@ -30,6 +30,7 @@ namespace Day4
         static void Main(string[] args)
         {
             //Task One
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Enter Account Number");
             long Account_Number = long.Parse(Console.ReadLine());
             Console.WriteLine("Enter Account Balance");
@@ -38,9 +39,9 @@ namespace Day4
             byte Account_Type = byte.Parse(Console.ReadLine());
             BankAccount b1 = new BankAccount()
             {
-                AccountNumber = Account_Number ,
+                AccountNumber = Account_Number,
                 AccountBalance = Account_Balance,
-                AccountType = Account_Type
+                AccountType = (BankingTypes)Account_Type
             };
             b1.Print();
             //End Task

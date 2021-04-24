@@ -1,0 +1,7 @@
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.csprojAssemblyReference.cache
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.csproj.CoreCompileInputs.cache
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.exe.config
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.exe
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.pdb
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.exe
+C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.pdb
