@@ -5,3 +5,10 @@ C:\Users\River\source\repos\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.exe
 C:\Users\River\source\repos\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.pdb
 C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.exe
 C:\Users\River\source\repos\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.pdb
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.exe.config
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.exe
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\bin\Debug\DayFourEx1.pdb
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.csprojAssemblyReference.cache
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.csproj.CoreCompileInputs.cache
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.exe
+D:\ITI\Front-end\C#\.Net_assignment\DayFourEx1\DayFourEx1\obj\Debug\DayFourEx1.pdb

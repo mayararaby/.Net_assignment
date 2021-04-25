@@ -24,7 +24,7 @@ namespace dayFourEx2
                 $"Account Type = {this.AccountType}, " +
                 $"Account Balance = {this.AccountBalance}");
         }
-        static int generateId()
+        public int generateId()
         {
             return ++id;
         }
@@ -34,17 +34,23 @@ namespace dayFourEx2
             this.AccountType = AccountType;
             this.AccountNumber = generateId();
         }
-        public bool Withdraw (decimal _Withdraw , ref decimal AccountBalance)
+       
+        public bool withdraw(decimal outAmt)
         {
-            decimal Result =  ref this.AccountBalance- _Withdraw;
-            if (Result < 0)
-                return false ;
-            else
-                return true ;
+            bool chk = true;
+            if (outAmt <= this.AccountBalance)
+            {
+                this.AccountBalance -= outAmt;
+            }
+            else if (outAmt > this.AccountBalance)
+            {
+                chk = false;
+            }
+            return chk;
         }
-        public decimal Deposit (decimal _Deposit  )
+        public void deposit(decimal addAmt)
         {
-            return _Deposit + this.AccountBalance
+            this.AccountBalance += addAmt;
         }
     }
     class Program
@@ -52,24 +58,26 @@ namespace dayFourEx2
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            /*long Account_Number = generateID();*/
-
-            Console.WriteLine("Enter Account Balance");
-            decimal Account_Balance = decimal.Parse(Console.ReadLine());
+            //List<BankAccount> bank = new List<BankAccount>();
+            Console.Write("Enter initial balance: ");
+            decimal init = decimal.Parse(Console.ReadLine());
             Console.WriteLine("Enter Account Type 1 for checking or 2 for Deposit , option : ");
             byte Account_Type = byte.Parse(Console.ReadLine());
-            BankAccount b1 = new BankAccount(Account_Balance, (BankingTypes)Account_Type);
+            BankAccount b1 = new BankAccount(init, (BankingTypes)Account_Type);
             b1.Print();
-            Console.WriteLine("How much to withdraw");
-            decimal withdrawMony = int.Parse(Console.Read());
-            bool result = b1.Withdraw(withdrawMony,Account_Balance) ;
+            Console.WriteLine("Bank Account Added!");
+            Console.Write("Amount to Deposit: ");
+            b1.deposit(decimal.Parse(Console.ReadLine()));
+            Console.WriteLine("Amount successfully deposited!");
+            Console.Write("Amount to Withdraw: ");
+            bool result = b1.withdraw(decimal.Parse(Console.ReadLine()));
+
             if (result == true)
-                Console.WriteLine("Done successfully ..");
+                Console.WriteLine("Amount successfully withdrawn!");
             else
-                Console.WriteLine("Your current balance is not enough to withdraw the amount");
-            b1.Deposit(40);
-            Console.WriteLine(b1.AccountBalance);
+                Console.WriteLine("Your current balance is not allowed");
             //End Task
+            
             Console.ReadKey();
         }
     }
