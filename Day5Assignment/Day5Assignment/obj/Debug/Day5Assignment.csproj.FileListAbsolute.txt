@@ -5,3 +5,10 @@ C:\Users\River\source\repos\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignme
 C:\Users\River\source\repos\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.csproj.CoreCompileInputs.cache
 C:\Users\River\source\repos\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.exe
 C:\Users\River\source\repos\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.pdb
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.csprojAssemblyReference.cache
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.csproj.CoreCompileInputs.cache
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.exe
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\obj\Debug\Day5Assignment.pdb
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\bin\Debug\Day5Assignment.exe.config
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\bin\Debug\Day5Assignment.exe
+D:\ITI\Front-end\C#\.Net_assignment\Day5Assignment\Day5Assignment\bin\Debug\Day5Assignment.pdb

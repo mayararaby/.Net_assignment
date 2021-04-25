@@ -10,10 +10,10 @@ namespace Day5Assignment
     {
         public decimal Amont ;
         public DateTime day;
-        public BankTransaction (decimal Amont)
+        public BankTransaction (decimal _Amont)
         {
             day = DateTime.Now;
-            Amont = 0;
+            Amont = _Amont ;
         }
     }
 }
