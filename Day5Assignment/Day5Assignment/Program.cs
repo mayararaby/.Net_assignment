@@ -12,31 +12,23 @@ namespace Day5Assignment
         {
             //first instance
             BankAccount b1 = new BankAccount(1000);
-            b1.deposit(50);
+            b1.deposit(60);
             b1.withdraw(180);
             b1.Print();
             //End
 
             //second instance
-            BankAccount b2 = new BankAccount(1200,BankingTypes.checking);
-            b2.deposit(130);
-            b2.withdraw(400);
+            BankAccount b2 = new BankAccount(1000,BankingTypes.checking);
+            b2.deposit(50);
+            b2.withdraw(180);
             b2.Print();
             //end
 
-            //third instance
-            BankAccount b3 = new BankAccount(3000);
-            b3.deposit(1000);
-            b3.withdraw(980);
-            b3.Print();
-            //end
+            Console.WriteLine(b1.Equals(b2));
+            Console.WriteLine(b1==b2);
+            Console.WriteLine(b1!=b2);
+            Console.WriteLine(b1.ToString());
 
-            //fourth instance
-            BankAccount b4 = new BankAccount(4600, BankingTypes.Deposit);
-            b3.deposit(800);
-            b3.withdraw(570);
-            b3.Print();
-            //end
             GC.Collect(0);
             Console.ReadKey();
         }

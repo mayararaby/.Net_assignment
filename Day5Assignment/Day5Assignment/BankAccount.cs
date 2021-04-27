@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -67,6 +68,30 @@ namespace Day5Assignment
                 $"Account Type = {this.AccountType}, " +
                 $"Account Balance = {this.AccountBalance}");
         }
+        //Day seven
+        public static bool operator == (BankAccount leftSide, BankAccount rightSide) {
+            if (leftSide.AccountBalance == rightSide.AccountBalance)
+                return true;
+            else
+                return false;
+        }
+        public static bool operator != (BankAccount leftSide, BankAccount rightSide) {
+            if (leftSide.AccountBalance != rightSide.AccountBalance)
+                return true;
+            else
+                return false;
+        }
+        public override string ToString()
+        {
+            return "Account Number: " + this.AccountNumber + " Account Type" + this.AccountType
+                    +" Account Balance"+this.AccountBalance;
+        }
+        public override bool Equals(Object obj)
+        {
+             BankAccount b1 = obj as BankAccount;
+             return this.AccountBalance == ((BankAccount)obj).AccountBalance ;
+        }
+        //End
 
         ~BankAccount()
         {
